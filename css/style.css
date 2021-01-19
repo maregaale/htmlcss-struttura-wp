@@ -3,3 +3,53 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/* struttura contenitore principale */
+.main-container {
+  width: 90%;
+  margin: auto;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+/* /struttura contenitore principale */
+
+/* intestazione */
+header {
+  height: 20vh;
+  width: 100%;
+  background-color: #ff33cc;
+}
+/* /intestazione */
+
+/* corpo del progetto */
+/* margini tra le sezioni */
+.margin {
+  margin-top: 5vh;
+}
+/* margini tra le sezioni */
+
+/* struttura sezione-1 */
+.section-1 {
+  height: 60vh;
+  width: 100%;
+  background-color: #e6e600;
+}
+/* /struttura sezione-1 */
+
+/* struttura sezione-2 */
+.section-2 {
+  height: 80vh;
+  width: 100%;
+  background-color: #0099ff;
+}
+/* /struttura sezione-2 */
+/* /corpo del progetto */
+
+/* footer */
+footer {
+  height: 10vh;
+  width: 100%;
+  margin-top: 2vh;
+  background-color: purple;
+}
+/* /footer */

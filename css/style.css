@@ -40,7 +40,19 @@ header {
 .section-2 {
   height: 80vh;
   width: 100%;
-  background-color: #0099ff;
+  background-color: #005ce6;
+}
+
+.first-row {
+  height: 15%;
+  width: 100%;
+  background-color: #00ccff;
+}
+
+.second-row {
+  height: 85%;
+  width: 100%;
+  background-color: red;
 }
 /* /struttura sezione-2 */
 /* /corpo del progetto */

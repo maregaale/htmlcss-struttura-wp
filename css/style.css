@@ -14,8 +14,8 @@
 .main-container {
   width: 90%;
   margin: auto;
-  margin-top: 5vh;
-  margin-bottom: 5vh;
+  margin-top: 4vh;
+  margin-bottom: 4vh;
 }
 /* /struttura contenitore principale */
 
@@ -55,13 +55,12 @@ header {
 }
 
 .second-row {
-  height: 85%;
   width: 100%;
   padding: 2% 0;
 }
 
 /* colonne */
-.columns {
+.second-row .columns {
   height: 80vh;
   float:left;
   background-color: #00ccff;
